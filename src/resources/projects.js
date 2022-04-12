@@ -1,0 +1,60 @@
+const projects = [
+  {
+    id: 1,
+    title: "React Portfolio",
+    key: "react",
+    image: "../../src/assets/images/Portfolio-Screenshot-pet-planit.PNG",
+    imageDescription: "Screenshot of PET PLANiT website",
+    githubUrl: "https://github.com/sghosh17/20-react-portfolio",
+  },
+  {
+    id: 2,
+    title: "Team Profile Generator",
+    key: "Team-profile",
+    image: "../../src/assets/images/Portfolio-Screenshot-broadcastr.PNG",
+    imageDescription: "Screenshot of broadcastr website",
+    githubUrl: "https://github.com/sghosh17/10-Team-Profile-Generator",
+  },
+  {
+    id: 3,
+    title: "Safe-Home",
+    key: "safe-home",
+    image: "../../assets/images/Portfolio-Screenshot-broadcastr.PNG",
+    imageDescription: "Screenshot of Book Search Enginee App",
+    githubUrl: "https://github.com/sghosh17/Safe-Home",
+  },
+  {
+    id: 4,
+    title: "Instagrub",
+    key: "instagrub",
+    image: "../../assets/images/budget-tracker.PNG",
+    imageDescription: "Screenshot of Budget Tracker App",
+    githubUrl: "https://github.com/sghosh17/Instagrub",
+  },
+  {
+    id: 5,
+    title: "Password Generator",
+    key: "password",
+    image: "../../assets/images/Portfolio-Screenshot-taste-of-the-day.PNG",
+    imageDescription: "Screenshot of Taste of the Day App",
+    githubUrl: "https://github.com/sghosh17/03-Javascript-Homework",
+  },
+  {
+    id: 6,
+    title: "E-Commerce-Back-End",
+    key: "ecommerce",
+    image: "../../assets/images/Portfolio-Screenshot-code-quiz.PNG",
+    imageDescription: "Screenshot of Code Quiz",
+    githubUrl: "https://github.com/sghosh17/13-E-Commerce-Back-End",
+  },
+  {
+    id: 7,
+    title: "PWA-Homework",
+    key: "pwa",
+    image: "../../assets/images/Portfolio-Screenshot-run-buddy.PNG",
+    imageDescription: "Screenshot of Run Buddy website",
+    githubUrl: "https://github.com/sghosh17/19-PWA-Homework",
+  },
+];
+
+export default projects;
