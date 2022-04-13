@@ -18,10 +18,11 @@ const About = () => {
               className="mt-4"
             />
             <p className="lead mt-4">
-              Freelancer is a free bootstrap theme created by Start Bootstrap.
-              The download includes the complete source files including HTML,
-              CSS, and JavaScript as well as optional SASS stylesheets for easy
-              customization.
+              I am Sampreeti Das undertaking the full stack web development
+              course at the Manchester University Coding Bootcamp. <br />
+              <br />I have done a number of projects in the course so far and my
+              portfolio details the projects. I am learning new skills from the
+              course and wish to implement the skillset in future endeavours.
             </p>
           </div>
         </div>

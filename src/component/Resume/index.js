@@ -15,7 +15,7 @@ function Resume() {
               {" "}
               Download my{" "}
               <a
-                href="https://github.com/fondofhats/react-portfolio/raw/main/docs/MichaelGiddingsResume.docx"
+                href="https://github.com/sghosh17/20-react-portfolio/blob/main/public/docs/SampreetiDasResume.docx?raw=true"
                 class="link"
               >
                 Resume
