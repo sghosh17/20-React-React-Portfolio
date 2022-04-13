@@ -11,7 +11,8 @@ const projects = [
     id: 2,
     title: "Team Profile Generator",
     key: "Team-profile",
-    image: "../../assets/images/screenshot-My_team.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/screenshot-My_team.png",
     //imageDescription: "Screenshot of broadcastr website",
     githubUrl: "https://github.com/sghosh17/10-Team-Profile-Generator",
   },
@@ -19,7 +20,8 @@ const projects = [
     id: 3,
     title: "Safe-Home",
     key: "safe-home",
-    image: "../../assets/images/screenshot-smallhouse.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/screenshot-smallhouse.png",
     //imageDescription: "Screenshot of Book Search Enginee App",
     githubUrl: "https://github.com/sghosh17/Safe-Home",
   },
@@ -27,7 +29,8 @@ const projects = [
     id: 4,
     title: "Instagrub",
     key: "instagrub",
-    image: "../../assets/images/screenshot-instagrub-feed.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/screenshot-instagrub-feed.png",
     //imageDescription: "Screenshot of Budget Tracker App",
     githubUrl: "https://github.com/sghosh17/Instagrub",
   },
@@ -35,7 +38,8 @@ const projects = [
     id: 5,
     title: "Password Generator",
     key: "password",
-    image: "../../assets/images/screenshot-password.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/screenshot-password.png",
     //imageDescription: "Screenshot of Taste of the Day App",
     githubUrl: "https://github.com/sghosh17/03-Javascript-Homework",
   },
