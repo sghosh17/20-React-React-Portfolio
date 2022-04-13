@@ -17,10 +17,7 @@ const Project = ({ project }) => {
           rippleColor="light"
           style={{ maxWidth: "24rem" }}
         >
-          <img
-            src="https://mdbootstrap.com/img/new/standard/city/053.webp"
-            className="w-100"
-          />
+          <img src={require(`${project.image}`)} className="w-100" />
           <a href="#!">
             <div
               className="mask"

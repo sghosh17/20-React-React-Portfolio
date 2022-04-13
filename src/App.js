@@ -4,7 +4,7 @@ import Header from "./component/Header";
 import About from "./component/About";
 import Portfolio from "./component/Portfolio";
 import Contact from "./component/Contact";
-// import Resume from "./component/Resume";
+import Resume from "./component/Resume";
 import Footer from "./component/Footer";
 import "./App.css";
 
@@ -26,7 +26,7 @@ function App() {
       return <Portfolio />;
     } else if (currentSection === "Resume") {
       console.log("current state: ", currentSection);
-      return "";
+      return <Resume />;
     } else if (currentSection === "Contact") {
       console.log("current state: ", currentSection);
       return <Contact />;
