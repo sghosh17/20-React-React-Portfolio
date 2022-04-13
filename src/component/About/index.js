@@ -6,7 +6,7 @@ const About = () => {
     <section className="page-section text-white mb-0">
       <div className="container">
         <h2 class="page-section-heading text-left text-uppercase text-white">
-          About
+          About Me
         </h2>
 
         <div className="row">

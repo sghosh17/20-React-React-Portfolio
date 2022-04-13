@@ -3,7 +3,8 @@ const projects = [
     id: 1,
     title: "React Portfolio",
     key: "react",
-    image: "../../assets/images/screenshot-portfolio.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/screenshot-portfolio.png",
     //imageDescription: "Screenshot of PET PLANiT website",
     githubUrl: "https://github.com/sghosh17/20-react-portfolio",
   },
@@ -47,7 +48,8 @@ const projects = [
     id: 6,
     title: "E-Commerce-Back-End",
     key: "ecommerce",
-    image: "../../assets/images/screenshot-password.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/ecommerce.jpg",
     //imageDescription: "Screenshot of Code Quiz",
     githubUrl: "https://github.com/sghosh17/13-E-Commerce-Back-End",
   },
@@ -55,7 +57,8 @@ const projects = [
     id: 7,
     title: "PWA-Homework",
     key: "pwa",
-    image: "../../assets/images/screenshot-password.png",
+    image:
+      "https://raw.githubusercontent.com/sghosh17/20-react-portfolio/main/public/images/pwa.png",
     //imageDescription: "Screenshot of Run Buddy website",
     githubUrl: "https://github.com/sghosh17/19-PWA-Homework",
   },

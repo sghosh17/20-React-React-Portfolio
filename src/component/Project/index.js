@@ -1,7 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub } from "@fortawesome/free-brands-svg-icons";
-import projectPic from "../../assets/images/sample-profile.jpg";
 import { MDBRipple } from "mdb-react-ui-kit";
 
 const Project = ({ project }) => {
@@ -17,7 +16,7 @@ const Project = ({ project }) => {
           rippleColor="light"
           style={{ maxWidth: "24rem" }}
         >
-          <img src={require(`${project.image}`)} className="w-100" />
+          <img src={project.image} className="w-100" />
           <a href="#!">
             <div
               className="mask"
