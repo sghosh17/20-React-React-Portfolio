@@ -18,17 +18,7 @@ It then has a Contact section and then it has a section to download my resume.
 
 There are no files to download for this project.
 
-The packages required to run are:
-
--code-mirror-themes
-
--idb
-
--webpack-pwa-manifest
-
--webpack
-
--css-loader
+The project was created using create-react-app and additionally, bootstrap was installed as a dependency.
 
 ## Usage
 
